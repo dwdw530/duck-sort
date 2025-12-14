@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude --version)",
+      "Bash(bash -c \"source ~/miniconda3/etc/profile.d/conda.sh && conda activate py310_env && python D:/vscode_workspace/demo/duck_sort.py\")",
+      "Bash(bash -c \"where conda\")",
+      "Bash(bash -c:*)",
+      "Bash(pwsh:*)"
+    ]
+  }
+}
