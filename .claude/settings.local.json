@@ -5,7 +5,12 @@
       "Bash(bash -c \"source ~/miniconda3/etc/profile.d/conda.sh && conda activate py310_env && python D:/vscode_workspace/demo/duck_sort.py\")",
       "Bash(bash -c \"where conda\")",
       "Bash(bash -c:*)",
-      "Bash(pwsh:*)"
+      "Bash(pwsh:*)",
+      "mcp__serena__get_current_config",
+      "mcp__serena__check_onboarding_performed",
+      "mcp__tavily-remote__tavily_search",
+      "mcp__tavily-remote__tavily_extract",
+      "WebSearch"
     ]
   }
 }
